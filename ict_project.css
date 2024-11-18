@@ -1,0 +1,24 @@
+.home:hover {
+    font-size: large;
+}
+
+.imag {
+    height: 90px;
+    width: 100px;
+    border-radius: 20px;
+}
+
+.image {
+    height: 90px;
+    width: 90px;
+}
+
+.image:hover {
+    height: 110px;
+    width: 110px;
+}
+
+.imag:hover {
+    height: 110px;
+    width: 110px;
+}
